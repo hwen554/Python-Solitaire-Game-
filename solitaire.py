@@ -1,5 +1,7 @@
 import pygame
 import random
+import arcade
+import math
 
 """class Solitaire:
     def __init__(self, cards):
