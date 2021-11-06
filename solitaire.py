@@ -1,4 +1,4 @@
-import pygame
+import pygame   # install pygame first
 import random
 import arcade
 import math
