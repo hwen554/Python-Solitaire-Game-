@@ -1,5 +1,5 @@
 import pygame   # install pygame first
-import random
+import random   #import random for cards
 import arcade
 import math
 
