@@ -1,6 +1,6 @@
 import pygame   # install pygame first
 import random   #import random for cards
-import arcade
+import arcade   # import component
 import math
 
 """class Solitaire:
