@@ -786,7 +786,7 @@ class Solitaire:
     
     
     
-    
+    """Overwrite play function"""
     def play(self):
         print("********************** NEW GAME *****************************")
         move_number=  1
