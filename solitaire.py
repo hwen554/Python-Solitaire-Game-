@@ -521,8 +521,9 @@ def main():
     # Setup the width and height of the screen [width, height]
     
     screen = pygame.display.set_mode([764,650])
-
-    pygame.display.set_caption("Solitaire Game")
+    
+    Player_name=str(input("Please Enter Your Name!"))
+    pygame.display.set_caption("Solitaire Game"+Player_name)
 
     #Loop until the player left clicks the close button.
     done = False
