@@ -3,6 +3,7 @@ import random   #import random for cards
 import arcade   # import component
 import math     #import math
 
+
 """class Solitaire:
     def __init__(self, cards):
         self.__piles = []
@@ -852,5 +853,5 @@ class CardPile:
                 
                 print('')
         else:
-            print('')
+            print(' ')
     
