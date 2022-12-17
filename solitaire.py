@@ -2,7 +2,7 @@ import pygame   # install pygame first
 import random   #import random for cards
 import arcade   # import component
 import math     #import math
-.................
+................
 
 """class Solitaire:
     def __init__(self, cards):
