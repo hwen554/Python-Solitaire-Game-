@@ -62,7 +62,7 @@ import math     # import math
     
     
     def play(self):
-        print("********************* NEW GAME *****************************")
+        print("******************** NEW GAME *****************************")
         move_number=  1
         while move_number <= self.__max_num_moves and not self.is_complete():
             self.display()
