@@ -5,6 +5,7 @@ import math     # import math
 
 
 """class Solitaire:
+
     def __init__(self, cards):
         self.__piles = []
         self.__num_cards = len(cards)
@@ -16,6 +17,7 @@ import math     # import math
             self.__piles[0].add_bottom(cards[i])
 
     def get_pile(self, i):
+
         
         return self.__piles[i]
 
