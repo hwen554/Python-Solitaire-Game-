@@ -18,7 +18,6 @@ import math     # import math
 
     def get_pile(self, i):
 
-        
         return self.__piles[i]
 
     def display(self):
