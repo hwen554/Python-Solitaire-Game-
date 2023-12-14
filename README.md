@@ -1,4 +1,4 @@
-# Python-Solitaire-Game.
+# Python-Solitaire-Game..
 
 Solitaire game developed by using python and pycharm,pygam
 ![image](https://user-images.githubusercontent.com/78581470/140584729-85806ede-a1af-49a8-ac49-b8d938d1c9da.png)
